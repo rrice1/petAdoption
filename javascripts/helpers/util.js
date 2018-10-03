@@ -4,3 +4,5 @@ const printToDom = (stringToPrint) => {
   };
 
   export{printToDom}
+
+  console.log('hi')
